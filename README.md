@@ -1,6 +1,6 @@
 # Hi there, I'm [Bredan](https://bredankm.dev/) 👋
 
-### Computer Science Student | Software & Data Enthusiast
+### Computer Science Student
 I am a dedicated Computer Science student at the University of Houston-Downtown, where I am actively honing my skills in both programming and data science. I am passionate about leveraging code to solve complex problems and create meaningful, user-centric applications. 
 My interest in data science complements this, as I believe that data-driven insights are crucial for building truly impactful technology. I'm eager to apply my academic knowledge to real-world projects and am actively seeking opportunities to contribute to the tech industry. 
 I am committed to continuous learning and am excited to collaborate on innovative projects.

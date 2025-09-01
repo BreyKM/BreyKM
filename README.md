@@ -17,7 +17,7 @@ My Toolbox:
 <a href="(https://www.linkedin.com/in/bredanmwaura/)" target="_blank">
 <img width="50" height="50" src="https://img.icons8.com/color/50/linkedin.png" alt="linkedin"/>
 </a>
-<a href="https://bredankm.dev/" target="_blank">
+<a href="(https://bredankm.dev/)" target="_blank">
 <img width="50" height="50" src="https://img.icons8.com/plasticine/50/domain.png" alt="my website"/>
 </a>
 </p>
